@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideNavigation", "SideNavigation\SideNavigation.csproj", "{ED49844B-6408-4FB5-A62E-71F1DBA6B372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Debug|iPhone.Build.0 = Debug|iPhone
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Release|iPhone.Build.0 = Release|iPhone
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ED49844B-6408-4FB5-A62E-71F1DBA6B372}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SideNavigation\SideNavigation.csproj
+	EndGlobalSection
+EndGlobal
